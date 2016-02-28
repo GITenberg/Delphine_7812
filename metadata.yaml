@@ -1,0 +1,30 @@
+_repo: Delphine_7812
+creator:
+  author:
+    agent_name: Staël, Madame de (Anne-Louise-Germaine)
+    aliases:
+    - Staël-Holstein, Anne Louise Germaine Necker Baronne de
+    - De Staël, Madame (Anne-Louise-Germaine)
+    - Stael, Madame de (Anne-Louise-Germaine)
+    birthdate: 1766
+    deathdate: 1817
+    gutenberg_agent_id: '1535'
+    url: http://www.gutenberg.org/2009/agents/1535
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7812'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Women -- Social conditions -- Fiction'
+- !lcsh 'Women -- France -- 18th century -- Fiction'
+- !lcc 'PQ'
+title: Delphine
+url: http://www.gutenberg.org/ebooks/7812
